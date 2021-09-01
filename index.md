@@ -12,6 +12,7 @@ The idea behind this project is to make it easy for developers and testers to ha
 ### PDFs
 
 ##### PDFs in different sizes
+
 | Text PDFs |
 | :------|
 |[A3 landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093029/A3.landscape.pdf)|
