@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Dummy Files
 
-You can use the [editor on GitHub](https://github.com/chaudharydeepanshu/DummyFiles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find and download dummy files of different types, size and properties for any purpose.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea behind this project is to make it easy for developers and testers to have files of various properties ready to download so that they can focus on testing their products instead of creating files.
 
-### Markdown
+### Files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [PDFs](#pdfs)
+    1. [PDFs in different sizes](#pdfs-in-different-sizes)
 
-```markdown
-Syntax highlighted code block
+### PDFs
 
-# Header 1
-## Header 2
-### Header 3
+##### PDFs in different sizes
+| Text PDFs |
+| :------|
+|[A3 landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093029/A3.landscape.pdf)|
+|[A3 portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093035/A3.portrait.pdf)|
+|[A4 landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093040/A4.landscape.pdf)|
+|[A4 portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093042/A4.portrait.pdf)|
+|[A5 landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093043/A5.landscape.pdf)|
+|[A5 portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093044/A5.portrait.pdf)|
+|[B4 (JIS) landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093046/B4.JIS.landscape.pdf)|
+|[B4 (JIS) portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093047/B4.JIS.portrait.pdf)|
+|[B5 (JIS) landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093049/B5.JIS.landscape.pdf)|
+|[B5 (JIS) portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093050/B5.JIS.portrait.pdf)|
+|[Executive landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093051/Executive.landscape.pdf)|
+|[Executive portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093052/Executive.portrait.pdf)|
+|[Legal landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093054/Legal.landscape.pdf)|
+|[Legal Portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093055/Legal.Portrait.pdf)|
+|[Letter landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093057/Letter.landscape.pdf)|
+|[Letter portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093058/Letter.portrait.pdf)|
+|[Statement landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093059/Statement.landscape.pdf)|
+|[Statement Portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093060/Statement.Portrait.pdf)|
+|[Tabloid landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093062/Tabloid.landscape.pdf)|
+|[Tabloid portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093063/Tabloid.portrait.pdf)|
 
-- Bulleted
-- List
+### Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaudharydeepanshu/DummyFiles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can always support the project by making pull requests with more extensive dummy files.
