@@ -36,6 +36,25 @@ The idea behind this project is to make it easy for developers and testers to ha
 |[Tabloid landscape](https://github.com/chaudharydeepanshu/DummyFiles/files/7093062/Tabloid.landscape.pdf)|
 |[Tabloid portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/7093063/Tabloid.portrait.pdf)|
 
+
+##### PDFs in different protection
+
+| Permission/Owner Password - ownerpw |
+| :------|
+|[A4 portrait With Printing Disabled](https://github.com/chaudharydeepanshu/DummyFiles/files/9838339/A4.portrait.printing.disabled.ownerpw.pdf)|
+|[A4 portrait With Changes Disabled](https://github.com/chaudharydeepanshu/DummyFiles/files/9838340/A4.portrait.changes.disabled.ownerpw.pdf)|
+|[A4 portrait With Printing & Changes Disabled](https://github.com/chaudharydeepanshu/DummyFiles/files/9838341/A4.portrait.printing.changes.disabled.ownerpw.pdf)|
+
+| Open/User Password - userpw |
+| :------|
+|[A4 portrait](https://github.com/chaudharydeepanshu/DummyFiles/files/9838342/A4.portrait.userpw.pdf)|
+
+| Permission/Owner Password - ownerpw & Open/User Password - userpw |
+| :------|
+|[A4 portrait With Printing & Changes Disabled](https://github.com/chaudharydeepanshu/DummyFiles/files/9838343/A4.portrait.userpw.ownerpw.pdf)|
+
+Note: The permission password can also be used in place of open password to open a pdf and bypass security settings.
+
 ### Support
 
 You can always support the project by making pull requests with more extensive dummy files.
